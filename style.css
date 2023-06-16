@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: yellow; /*Cor de fundo da pagina */
+    height: 100vh; /*Altura */
+    box-sizing: border-box;
+}
+.body_milho{
+    background-color: green; /*Cor de fundo da pagina */
+
+}
+
+nav ul {
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  } 
+  nav li {
+    display: inline-block;
+  } 
+  nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+  } 
+  nav a:hover {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .apresentacao{
+    display: flex;
+    align-items: center; /*Alinha os itens ao centro*/
+    margin: 10%;
+
+  }
+
+  .colheitadeira{
+    height: auto;
+    margin-right: 10px;
+    width: 3000px;
+
+  }
+
+  h1{
+    text-align: center;
+    font-size: 40px;
+  }
+  .h1_milho{
+    text-align: center;
+    font-size: 40px;
+  }
+  p{
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .p_milho{
+    font-size: 20px;
+  }
+  .p2_milho{
+    font-size: 20px; 
+  }
+
+  .img_milho{
+    height: 300px;
+    width: 100%;
+    margin: 10px;
+  }
+
+  .soja_paragrafo{
+    font-size: 20px;
+  }
+  .img_soja{
+    display: inline;
+    width: 100%;
+    height: 300px;
+    margin: 1%;
+  }
+
+  .img_cana{
+    height: 300px;
+    width: 100%;
+    margin: 10px;
+  }
+
+ .imagens_agricultura_de_precisão{
+    display: inline;
+    width: 100%;
+    height: 300px;
+ }
+
+ .img_exportacao{
+  display: inline;
+  width: 100%;
+  height: 300px;
+ }
+
+ .img_carne_bovina{
+  height: 300px;
+  width: 100%;
+  margin: 10px;
+ }
+
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    z-index: 1;
+    padding: 10px;
+  }
+   
+  .dropdown-content a {
+    color: #333;
+    display: block;
+    padding: 5px;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #333;
+  }
+
+  ol {
+    text-align: center;
+  }
+
+  footer {
+    background-color: black;
+    height: 120px;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    text-align: left;
+  }
+  .footer_rodape{
+    text-align: left;
+    font-size: 14px;
+  }
+  .footer_curiosidades{
+    height: 140px;
+  }
+
+  
+  
+  
+  
+  
+  
